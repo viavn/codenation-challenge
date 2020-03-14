@@ -1,0 +1,12 @@
+{
+  "name": "node_upload",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "run": "node server.js"
+  },
+  "author": "Vinicius de Souza Avansini",
+  "dependencies": {
+    "formidable": "^1.2.2"
+  }
+}
