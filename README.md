@@ -1,6 +1,6 @@
 <h1 align="center">
   DESAFIO 
-  ![Codenation logo](./assets/codenation-logo.png)
+  <img src="./assets/codenation-logo.png">
 </h1> 
 
 ### Criptografia de Júlio César
