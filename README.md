@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img alt="Logo Codenation" src="./assets/codenation-logo.png">
-</h1>
+</p>
 
 ## Criptografia de Júlio César
 
