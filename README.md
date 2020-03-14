@@ -1,8 +1,7 @@
-<h1 align="center">DESAFIO</h1> 
-<p align="center">
+<h1 align="center">
+  DESAFIO 
   ![Codenation logo](./assets/codenation-logo.png)
-</p>
----
+</h1> 
 
 ### Criptografia de Júlio César
 
@@ -13,10 +12,10 @@ Segundo o Wikipedia, criptografia ou criptologia (em grego: kryptós, “escondi
 
 ## Regras
 
-* As mensagens serão convertidas para minúsculas tanto para a criptografia quanto para descriptografia.
-* No nosso caso os números e pontos serão mantidos, ou seja:
-  * **Normal:** 1a.a <br>
-  * **Cifrado:** 1d.d
+- As mensagens serão convertidas para minúsculas tanto para a criptografia quanto para descriptografia.
+- No nosso caso os números e pontos serão mantidos, ou seja:
+  - **Normal:** 1a.a <br>
+  - **Cifrado:** 1d.d
 
 Escrever programa, em qualquer linguagem de programação, que faça uma requisição HTTP para a url abaixo:
 
